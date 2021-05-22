@@ -1,0 +1,6 @@
+domain: tutorial.kubebuilder.io
+layout:
+- go.kubebuilder.io/v3
+projectName: k8s-crd
+repo: github.com/renyddd/k8s-crd
+version: "3"
